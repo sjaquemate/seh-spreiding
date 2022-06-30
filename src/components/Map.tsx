@@ -231,7 +231,7 @@ export const Map = () => {
         <Button
           variant="contained"
           component="label"
-          onClick={() => window.open("https://raw.github.com/sjaquemate/seh-react/main/src/assets/SEH DATA 2018 en 2019_1.3_010522.pdf", "_blank")}
+          onClick={() => window.open("https://raw.github.com/sjaquemate/seh-spreiding/main/src/assets/SEH DATA 2018 en 2019_1.3_010522.pdf", "_blank")}
         >
           <div className="flex flex-row gap-2"> 
           <div> Download landelijk overzicht </div> <InformationIcon informationText="Download een .pdf bestand met het overzicht van alle SEH locaties waarvan data beschikbaar is gesteld."/>
