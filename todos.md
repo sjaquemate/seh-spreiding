@@ -92,6 +92,7 @@ kosmetisch
 [x] header site 
 [x] slider number formatting error 
 [x] test all SEH's import 
+[x] roaz
 
 Norman:
 [ ] default open/dicht personele bezetting
